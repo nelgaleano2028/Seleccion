@@ -1,0 +1,98 @@
+*{
+margin:0;
+padding: 0;
+
+}
+
+.ubicar{
+	margin:10px 10px 10px 10px;
+
+}
+#titulo{
+	
+
+}
+
+#nombre{
+
+}
+
+#descripcion{
+
+}
+
+#div-border { 
+	border-left: 3px solid #000; 
+	width:2px; 
+	height:300px;
+	position:absolute ; top:10% ; left:20% ;	
+} 
+			
+.contenedor{
+	background-color:yellow;
+	width: 1200px;
+
+}
+
+#imagen{
+	float:left;
+	width: 876px;
+	/*background-color:green;*/
+	border-right: 2px solid #000;
+	border-bottom: 2px solid #000;
+}
+
+#resultados{
+	background-color:gray;
+	width: 170px;
+	float:left;
+}
+
+input[type="text"]{
+	width: 70px;
+    height: 40px;
+	font-size: 30px;
+}
+
+
+.bg3 tr{
+	height:59px;
+}
+
+td{
+	text-align: center;
+	font-weight:bold;
+}
+
+#titulo_1{
+	height:31px;
+	
+}
+#titulo_2{
+	height:31px;
+	font-weight:bold;
+	font-size: 25px;
+}
+
+#clear{
+	clear:both;
+	height: 20px;
+}
+.grupo{
+	float: left;
+	width: 75%;
+	font-size: 23px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+.grupo_2{
+	float: left; 
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+
+
